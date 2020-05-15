@@ -47,3 +47,4 @@ stamp-h1
 ltmain.sh
 .dirstamp
 *.nilfs2
+gdpartclone.code-workspace
